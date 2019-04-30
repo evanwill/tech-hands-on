@@ -3,7 +3,7 @@ title: Examples
 nav: true
 ---
 
-specific example of some possibilities
+Non-Carpentries examples using GitHub and websites to develop interactive learning:
 
 ## Integrated Musicianship
 
@@ -22,18 +22,18 @@ In this case, GitHub provides an ideal platform not only for project management,
 
 ## Workshops
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/){:target='_blank'} theme, designed for hosting on [gh-pages](https://pages.github.com/){:target='_blank'}.
-
+Evan's workshops (like this one) use [GitHub Pages](https://pages.github.com/){:target='_blank'} and a Jekyll template to create a simple workshop website. 
 It works best for about 5 pages of instructions, plus index, all written in Markdown. 
 The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
+The web-based content is easier to follow along with conveniently shared code and links.
+Plus, it is easy to fork and adapt!
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and gh-pages makes this super easy.
+- [workshop-template](https://github.com/evanwill/workshop-template), minimal version.
+- [workshop-template-b](https://github.com/evanwill/workshop-template-b/), template with a [Bootstrap](https://getbootstrap.com/){:target='_blank'} theme and [fontawesome](https://fontawesome.com/) for a slicker look.
 
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources){:target='_blank'} since anyone can easily fork and adapt!
+Workshops:
 
-easier to follow tech walk through with code right in front of user, rather than off on the screen.
-easy cut&paste of code in code boxes
-
+- [Make OER!](https://evanwill.github.io/make-oer/) (presentation)
+- [get-git](https://evanwill.github.io/get-git/)
+- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
 - [hello-arduino](https://evanwill.github.io/hello-arduino/)

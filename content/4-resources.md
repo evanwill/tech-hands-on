@@ -5,14 +5,19 @@ nav: true
 
 # Resources
 
-- [Make OER!](https://evanwill.github.io/make-oer/) (presentation)
-- [get-git](https://evanwill.github.io/get-git/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [workshop-template-b](https://github.com/evanwill/workshop-template-b/) and [workshop-template](https://github.com/evanwill/workshop-template)
+### Carpentries readings
+
+- [Instructors resources](https://docs.carpentries.org/topic_folders/for_instructors/index.html)
+- ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf), Deans for Impact, 2015.
+- Porter, Guzdial, McDowell, and Simon, ["Success in Introductory Programming: What Works?"](https://carpentries.github.io/instructor-training/files/papers/porter-what-works-2013.pdf), Communications of the ACM Aug 2013: 56, 8. DOI:10.1145/2492007.2492020.
+- Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approved]. F1000Research 2016, 3:62. DOI: [10.12688/f1000research.3-62.v2](https://doi.org/10.12688/f1000research.3-62.v2)
+- Feldon, et al. "Graduate Students’ Teaching Experiences Improve Their Methodological Research Skills", Science 19 Aug 2011: 333, 6045. DOI: [10.1126/science.1204109](https://doi.org/10.1126/science.1204109).
+- Wilson G, Aruliah DA, Brown CT, Chue Hong NP, Davis M, Guy RT, et al. (2014) Best Practices for Scientific Computing. PLoS Biol 12(1): e1001745. DOI: [10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
+- Jacobs, et al. "Experiences with efficient methodologies for teaching computer programming to geoscientists". [arXiv:1505.05425](https://arxiv.org/abs/1505.05425)
 
 # Reference
 
-### Git & GitHub
+### GitHub <span class="fab fa-github"></span>
 
 [GitHub](https://github.com/){:target="_blank"} is a popular web service for hosting Git repositories--with benefits!
 It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and [free static web hosting](https://pages.github.com/){:target="blank"} powered by [Jekyll](https://jekyllrb.com/){:target="blank"}.
@@ -32,6 +37,7 @@ To learn more check out Hello World on [GitHub Guides](https://guides.github.com
 
 - [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
 - GitHub Guide [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Dillinger](https://dillinger.io/) (web based markdown editor)
 
 # Text Editor
 
