@@ -44,5 +44,6 @@ defaults:
       path: "content"
     values:
       layout: "default"
+      permalink: /:basename/
 # Build settings
 markdown: kramdown
