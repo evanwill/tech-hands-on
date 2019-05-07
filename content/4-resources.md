@@ -8,6 +8,8 @@ nav: true
 ### Carpentries readings
 
 - [Instructors resources](https://docs.carpentries.org/topic_folders/for_instructors/index.html)
+- Greg Wilson, [Teaching Tech Together](http://teachtogether.tech/) (2019). (web book by SWC founder)
+- Neil C. C. Brown and Greg Wilson, "Ten Quick Tips for Teaching Programming", *PLoS Computational Biology*, 14(4), April 2018, https://doi.org/10.1371/journal.pcbi.100602
 - ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf), Deans for Impact, 2015.
 - Porter, Guzdial, McDowell, and Simon, ["Success in Introductory Programming: What Works?"](https://carpentries.github.io/instructor-training/files/papers/porter-what-works-2013.pdf), Communications of the ACM Aug 2013: 56, 8. DOI:10.1145/2492007.2492020.
 - Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approved]. F1000Research 2016, 3:62. DOI: [10.12688/f1000research.3-62.v2](https://doi.org/10.12688/f1000research.3-62.v2)
